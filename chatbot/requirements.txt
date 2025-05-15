@@ -1,0 +1,8 @@
+streamlit
+pymongo
+requests
+pandas
+python-dotenv
+ollama
+feedparser
+beautifulsoup4
